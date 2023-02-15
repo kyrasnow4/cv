@@ -1,0 +1,41 @@
+/***TAG SELECTORS***/
+
+body {
+    background-color: #E1E5EA;
+}
+
+hr {
+    border-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: hsl(204, 20%, 50%);
+}
+
+h2 {
+    color: hsl(204, 20%, 50%);
+}
+
+h3 {
+    color: hsl(204, 20%, 50%);
+}
+
+a {
+    color: #DA7F8F;
+}
+
+a:hover {
+    color: #FAF3F3;
+}
+
+/***CLASS SELECTORS***/
+
+.meeting{
+    text-align: center;
+}
+
+/***ID SELECTORS***/
